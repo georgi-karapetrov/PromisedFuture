@@ -24,4 +24,4 @@
 
 import PackageDescription
 
-let package = Package(name: "PromisedFuture", dependencies : [], exclude: ["Tests"])
+let package = Package(name: "PromisedFuture", dependencies : [])
