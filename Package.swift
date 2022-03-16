@@ -1,4 +1,4 @@
-//
+// swift-tools-version:5.3
 //  Package.swift
 //
 //  Copyright (c) 2018 PromisedFuture
